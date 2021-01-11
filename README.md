@@ -9,13 +9,13 @@ background details relevant to understanding what this module does
 ```js
 var rebrainDevopsTask1 = require('rebrain-devops-task1')
 
-console.log('hello warld')
+console.log('hello world')
 ```
 
 outputs
 
 ```
-hello warld
+hello world
 ```
 
 ## API
